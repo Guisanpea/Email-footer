@@ -24,8 +24,8 @@ object MailFooter {
    println(s"""
      #--
      #$name 
-     #Linkedin: https://www.linkedin.com/in/$linkedin
-     #Github: https://github.com/$github
+     #Linkedin -> https://www.linkedin.com/in/$linkedin
+     #Github -> https://github.com/$github
      #
      #$cowFortune
      """.stripMargin('#'))
