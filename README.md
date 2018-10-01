@@ -10,8 +10,8 @@ Creating an output like this
 ```
 --
 Santiago Sánchez Fernández 
-Linkedin: https://www.linkedin.com/in/santiago-sánchez-fernández-357701159/
-Github: https://github.com/Guisanpea/
+Linkedin -> https://www.linkedin.com/in/santiago-sánchez-fernández-357701159/
+Github -> https://github.com/Guisanpea/
 
  ________________________________ 
 ( Elliptic paraboloids for sale. )
